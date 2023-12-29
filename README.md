@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yasin Mia Palash</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h3 align="center">I'm Yasin Mia Palash, a passionate Flutter developer from Bangladesh, dedicated to crafting cross-platform native apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
   ### Skills I have
-- Languages : C, Dart, Python
-- Frameworks : Flutter
-- Strong knowledge in RESTful web-services/API
-- Good problem solving skill 
+- Languages: C, Dart, Python
+- Frameworks: Flutter
+- Strong knowledge in RESTful web services/API
+- Good problem-solving skill 
 - Adobe XD & Figma for UI/UX
-- Proper knowledge of Github
+- Proper knowledge of GitHub
 - Know about business analysis
 - Algorithms and Data Structures
 - knowledge of OOP 

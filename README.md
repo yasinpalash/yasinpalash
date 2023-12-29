@@ -5,16 +5,15 @@
 
 - 🌱 I’m currently learning **Flutter**
   ### Skills I have
-- Languages : C, Dart, Go
+- Languages : C, Dart, Python
 - Frameworks : Flutter
-- Database: MySQL, SQL Server, SQLite, Postgresql
 - Strong knowledge in RESTful web-services/API
-- Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team 
-- Have good experience with Unit testing
 - Good problem solving skill 
 - Adobe XD & Figma for UI/UX
 - Proper knowledge of Github
 - Know about business analysis
+- Algorithms and Data Structures
+- knowledge of OOP 
 
 - 📫 How to reach me **yasin15-3615@diu.edu.bd**
 

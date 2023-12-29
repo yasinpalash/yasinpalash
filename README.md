@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinpalash" alt="yasinpalash" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **yasin15-3615@diu.edu.bd**

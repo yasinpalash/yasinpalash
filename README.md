@@ -4,6 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
+  ### Skills I have
+- Languages : C, Dart, Go
+- Frameworks : Flutter
+- Database: MySQL, SQL Server, SQLite, Postgresql
+- Strong knowledge in RESTful web-services/API
+- Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team 
+- Have good experience with Unit testing
+- Good problem solving skill 
+- Adobe XD & Figma for UI/UX
+- Proper knowledge of Github
+- Know about business analysis
 
 - 📫 How to reach me **yasin15-3615@diu.edu.bd**
 

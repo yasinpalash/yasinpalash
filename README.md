@@ -7,10 +7,12 @@
   ### Skills I have
 - Languages: C, Dart, Python
 - Frameworks: Flutter
-- Strong knowledge in RESTful web services/API
+- Version Control: Git
+- Strong knowledge of RESTful web services/API
 - Good problem-solving skill 
-- Adobe XD & Figma for UI/UX
-- Proper knowledge of GitHub
+- UI/UX Design: Adobe XD, Figma
+- Database: Firebase
+- Platforms: Android, iOS & Web
 - Know about business analysis
 - Algorithms and Data Structures
 - knowledge of OOP 

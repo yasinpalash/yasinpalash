@@ -11,7 +11,7 @@
 - Strong knowledge of RESTful web services/API
 - Good problem-solving skill 
 - UI/UX Design: Adobe XD, Figma
-- Database: Firebase
+- Database: Firebase, Hive
 - Platforms: Android, iOS & Web
 - Know about business analysis
 - Algorithms and Data Structures

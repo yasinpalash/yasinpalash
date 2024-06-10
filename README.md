@@ -1,22 +1,29 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Yasin Mia Palash, a passionate Flutter developer from Bangladesh, dedicated to crafting cross-platform native apps.</h3>
+<h3 align="center">I'm Yasin Mia Palash, a dedicated Flutter developer from Bangladesh, committed to building efficient cross-platform native apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" />
+</p>
 
 - 🌱 I’m currently deepening my knowledge in **Flutter**
-  ### 🛠️ I’m currently deepening my knowledge in 
-- Languages: C, Dart, Python
-- Frameworks: Flutter
-- Version Control: Git
-- Web Services/API: RESTful web services/API
-- Problem-Solving: Strong analytical and problem-solving skills 
-- UI/UX Design: Adobe XD, Figma
-- Database: Firebase, Hive
-- Platforms: Android, iOS & Web
-- Additional Skills: Business Analysis, Algorithms and Data Structures, OOP
 
-- 📫 Contact Me **yasin15-3615@diu.edu.bd**
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills and Expertise
+- **Languages:** C, Dart, Python
+- **Frameworks:** Flutter
+- **Version Control:** Git
+- **Web Services/API:** RESTful web services/API
+- **Problem-Solving:** Strong analytical and problem-solving skills
+- **UI/UX Design:** Adobe XD, Figma
+- **Database:** Firebase, Hive
+- **Platforms:** Android, iOS, Web
+- **Additional Skills:** Business Analysis, Algorithms and Data Structures, OOP
+
+### 🌐 Connect with Me
+- **Email:** yasin15-3615@diu.edu.bd
+- **LinkedIn:** [linkedin.com/in/yasinpolash](https://linkedin.com/in/yasinpolash)
+- **Facebook:** [fb.com/yasinpolash03](https://fb.com/yasinpolash03)
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yasinpolash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinpolash" height="30" width="40" />
@@ -25,7 +32,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasinpolash03" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -64,6 +72,20 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>
 </p>
+
+<h3 align="left">📈 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinpalash&show_icons=true&locale=en&layout=compact" alt="yasinpalash" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinpalash&show_icons=true&locale=en" alt="yasinpalash" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpalash&" alt="yasinpalash" /></p>
+
+### 🔭 Featured Projects
+- [**Project Name**](project_link): Brief description of the project.
+- [**Another Project**](project_link): Brief description of another project.
+
+### 📚 Blog Posts
+- [**Title of Blog Post**](blog_link): A brief description or excerpt from the blog post.
+
+### 🗂️ Open Source Contributions
+- [**Contribution to Project**](contribution_link): Brief description of the contribution.

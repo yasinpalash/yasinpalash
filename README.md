@@ -80,12 +80,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpalash&" alt="yasinpalash" /></p>
 
-### 🔭 Featured Projects
-- [**Project Name**](project_link): Brief description of the project.
-- [**Another Project**](project_link): Brief description of another project.
-
-### 📚 Blog Posts
-- [**Title of Blog Post**](blog_link): A brief description or excerpt from the blog post.
-
-### 🗂️ Open Source Contributions
-- [**Contribution to Project**](contribution_link): Brief description of the contribution.

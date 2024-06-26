@@ -18,10 +18,7 @@
 - **Platforms:** Android, iOS, Web
 - **Additional Skills:** Business Analysis, Algorithms and Data Structures, OOP
 
-### 🌐 Connect with Me
-- **Email:** yasin15-3615@diu.edu.bd
-- **LinkedIn:** [linkedin.com/in/yasinpolash](https://linkedin.com/in/yasinpolash)
-- **Facebook:** [fb.com/yasinpolash03](https://fb.com/yasinpolash03)
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">

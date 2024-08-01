@@ -8,9 +8,9 @@
 - 🌱 I’m currently deepening my knowledge in **Flutter**
 
 ### 🛠️ Skills and Expertise
-- **Languages:** C, Dart, Python,Rust
+- **Languages:** C, Dart, Python, Rust
 - **Frameworks:** Flutter
-- **Version Control:** Git
+- **Version Control:** Git & GitHub
 - **Web Services/API:** RESTful web services/API
 - **Problem-Solving:** Strong analytical and problem-solving skills
 - **UI/UX Design:** Adobe XD, Figma

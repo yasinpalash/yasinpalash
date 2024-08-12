@@ -16,6 +16,8 @@
 - **UI/UX Design:** Adobe XD, Figma
 - **Database:** Firebase, Hive
 - **Platforms:** Android, iOS, Web
+- **State Management::** GetX
+- **Mobile App Architecture:** Proficient in MVC (Model-View-Controller) and MVVM (Model-View-ViewModel) design patterns
 - **Additional Skills:** Business Analysis, Algorithms and Data Structures, OOP
 
 

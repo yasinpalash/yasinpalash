@@ -74,6 +74,9 @@
   <a href="https://fb.com/yasinpolash03" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasinpolash03" height="30" width="40" />
   </a>
+  <a href="https://wakatime.com/@Polash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wakatime.svg" alt="wakatime" height="30" width="40" />
+  </a>
 </p>
 
 ---

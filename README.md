@@ -12,15 +12,21 @@
 - 💡 Passionate about mastering advanced programming concepts.
 - 🚀 Always eager to learn and grow in the tech world.
 
-### 🔧 Skills & Expertise
-- **Languages:** C, Dart, Python, Rust
-- **Frameworks:** Flutter
-- **State Management:** GetX
-- **UI/UX Design:** Adobe XD, Figma
-- **Database:** Firebase, Hive
-- **Platforms:** Android, iOS, Web
-- **Architecture:** MVC, MVVM
-- **Additional Skills:** Problem-solving, OOP, Business Analysis
+---
+### 🛠️ Skills and Expertise
+- **Languages:** C, Dart, Python, Rust  
+- **Frameworks:** Flutter  
+- **Version Control:** Git & GitHub  
+- **Web Services/API:** RESTful web services/API  
+- **Problem-Solving:** Strong analytical and problem-solving skills  
+- **UI/UX Design:** Adobe XD, Figma  
+- **Database:** Firebase, Hive  
+- **Platforms:** Android, iOS, Web  
+- **State Management:** GetX  
+- **Mobile App Architecture:** MVC and MVVM design patterns  
+- **Additional Skills:** Business Analysis, Algorithms and Data Structures, OOP  
+
+---
 
 ### 🛠️ Technologies I Work With
 <p align="left">

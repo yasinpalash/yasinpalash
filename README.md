@@ -13,18 +13,23 @@
 - 🚀 Always eager to learn and grow in the tech world.
 
 ---
-### 🛠️ Skills and Expertise
-- **Languages:** C, Dart, Python, Rust  
-- **Frameworks:** Flutter  
+### 🛠️ Technical Skills  
+- **Programming Languages:** C, Dart, Python, Rust  
+- **Frameworks:** Flutter (Cross-Platform Development)  
 - **Version Control:** Git & GitHub  
-- **Web Services/API:** RESTful web services/API  
-- **Problem-Solving:** Strong analytical and problem-solving skills  
-- **UI/UX Design:** Adobe XD, Figma  
-- **Database:** Firebase, Hive  
-- **Platforms:** Android, iOS, Web  
-- **State Management:** GetX  
-- **Mobile App Architecture:** MVC and MVVM design patterns  
-- **Additional Skills:** Business Analysis, Algorithms and Data Structures, OOP  
+- **Web Services/API Integration:** RESTful APIs, JSON, HTTP/HTTPS  
+- **UI/UX Design Tools:** Adobe XD, Figma (Wireframing & Prototyping)  
+- **Database Management:** Firebase (Realtime Database, Firestore), Hive (Lightweight NoSQL)  
+- **Platforms:** Android, iOS, Web (Cross-Platform Development)  
+- **State Management:** GetX,Riverpod  
+- **Mobile App Architecture:** MVC, MVVM Design Patterns  
+- **Deployment & Publishing:**  
+  - **Google Play Store:** App bundle creation, release management, and compliance with store guidelines.  
+  - **Apple App Store:** App Store Connect, provisioning profiles, and App Store review process.  
+- **Additional Skills:**  
+  - Strong analytical and problem-solving skills.  
+  - Business Analysis and Requirements Gathering.  
+  - Algorithms, Data Structures, and Object-Oriented Programming (OOP).   
 
 ---
 

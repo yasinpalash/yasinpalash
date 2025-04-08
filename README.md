@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/-FVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FVM" />
+  <img src="https://img.shields.io/badge/-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/-GetX-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/-Push%20Notifications-7D4698?style=for-the-badge&logo=firebase&logoColor=white" alt="Push Notifications" />
 </p>
 
 ---
@@ -98,6 +101,9 @@
   </a>
   <a href="https://fvm.app/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/leoafarias/fvm/main/assets/logo.png" alt="fvm" width="40" height="40" />
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" />
   </a>
 </p>
 

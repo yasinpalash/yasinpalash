@@ -150,7 +150,7 @@
   <a href="https://fb.com/yasinpolash03" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:yasinmiapolash@gmail.com">
+  <a href="yasinmiapolash@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/yasinpalash" target="_blank">

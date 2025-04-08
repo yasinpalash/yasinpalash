@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpalash" />
-  <img src="https://wakatime.com/badge/user/018e9e5e-4a7a-4592-967e-f2c4d9a1f000.svg" alt="Total time coded since tracking" />
+  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28"><img src="https://wakatime.com/badge/user/10f79aeb-aa65-46c5-a8cc-cf668bb03b28.svg" alt="Total time coded since May 7 2024" /></a>
 </p>
 
 ---
@@ -97,13 +97,13 @@
 
 ### ⏱️ WakaTime Stats
 <p align="center">
-  <a href="https://wakatime.com/@Polash">
+  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Polash&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@Polash">
+  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
     <img src="https://wakatime.com/share/@Polash/d1c9a2b5-ca02-4be1-9d2d-3d26b9ba8609.svg" height="400" alt="Languages Over Last 30 Days" />
   </a>
 </p>
@@ -122,6 +122,13 @@
 
 ---
 
+### 🚀 Recent Projects
+- **[Flutter E-commerce App]** - A feature-rich shopping application built with Flutter and Firebase
+- **[Task Management System]** - A productivity app with clean architecture and Riverpod state management
+- **[Social Media Dashboard]** - Analytics visualization for social media platforms using Flutter
+
+---
+
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/yasinpolash" target="_blank">
@@ -137,3 +144,30 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+\`\`\`
+
+To set up the WakaTime GitHub Action for automatic updates, create a `.github/workflows/waka-readme.yml` file with this content:
+
+```yml file="waka-readme.yml" type="code"
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"

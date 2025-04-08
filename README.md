@@ -122,13 +122,6 @@
 
 ---
 
-### 🚀 Recent Projects
-- **[Flutter E-commerce App]** - A feature-rich shopping application built with Flutter and Firebase
-- **[Task Management System]** - A productivity app with clean architecture and Riverpod state management
-- **[Social Media Dashboard]** - Analytics visualization for social media platforms using Flutter
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/yasinpolash" target="_blank">
@@ -144,34 +137,3 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-\`\`\`
-
-### How to Set Up WakaTime GitHub Action
-
-To automatically update your WakaTime stats in your GitHub README, follow these steps:
-
-1. Create a `.github/workflows/waka-readme.yml` file in your repository with this content:
-
-```yml
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
-  workflow_dispatch: # Allows manual triggering
-
-jobs:
-  update-readme:
-    name: Update Readme with WakaTime metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"

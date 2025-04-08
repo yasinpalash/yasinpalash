@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -104,6 +105,9 @@
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" />
+  </a>
+  <a href="https://docs.hivedb.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg" alt="hive" width="40" height="40" />
   </a>
 </p>
 

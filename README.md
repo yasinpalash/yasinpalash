@@ -95,6 +95,7 @@
 
 ---
 
+
 ## 📬 Connect with Me
 
 <p align="center">
@@ -105,7 +106,12 @@
 </p>
 
 ---
-
+## 📝 Blogs
+<p align="center">
+  <a href="https://medium.com/@yasinmiapolash/building-a-bulletproof-flutter-api-client-38efc4ab775d" target="_blank">
+    <img src="https://img.shields.io/badge/Building%20a%20Bulletproof%20Flutter%20API%20Client-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Link" />
+  </a>
+</p>
 <div align="center">
   <i>💡 "Great apps are built with passion, precision, and continuous learning."</i>
 </div>

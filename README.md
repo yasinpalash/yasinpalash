@@ -30,8 +30,7 @@
 - **Programming Languages:** C, Dart, Python, Rust  
 - **Frameworks:** Flutter (Cross-Platform Development)  
 - **Version Control:** Git & GitHub  
-- **Web Services/API Integration:** RESTful APIs, JSON, HTTP/HTTPS  
-- **UI/UX Design Tools:** Adobe XD, Figma (Wireframing & Prototyping)  
+- **Web Services/API Integration:** RESTful APIs, JSON, HTTP/HTTPS   
 - **Database Management:** Firebase (Realtime Database, Firestore), Hive (Lightweight NoSQL)  
 - **Platforms:** Android, iOS, Web (Cross-Platform Development)  
 - **State Management:** GetX, Riverpod  

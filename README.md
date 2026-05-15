@@ -1,18 +1,18 @@
 
 <h1>Hi, I'm Yasin Mia Palash 👋</h1>
-
-
 <p>
-Software Engineer with 2+ years of experience building scalable, production-grade mobile applications using Flutter for Android and iOS. I specialize in developing cross-platform solutions across Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, event management, and transportation systems. I have strong expertise in Clean Architecture, SOLID principles, and scalable system design, with hands-on experience in RESTful APIs, Firebase, WebSocket, offline-first storage (Hive), and state management using GetX and Riverpod. Currently working at Akij Venture Ltd (via NeosCoder), contributing to enterprise SFA and HRM systems, performance optimization, and production-level feature delivery. Passionate about building secure, high-performance mobile products and solving real-world problems. Open to remote opportunities, collaborations, and impactful software engineering roles.
+Software Engineer with 2+ years of experience building scalable, production-grade mobile applications for Android and iOS using Flutter. Specialized in Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, and transportation systems, with a strong focus on clean architecture, performance, and scalability. Experienced in developing enterprise SFA and HRM platforms, offline-first solutions, and real-world production features that improve reliability and user experience. Skilled in RESTful APIs, Firebase, WebSocket, Hive, GetX, and Riverpod. Beyond engineering, I’ve participated in software contests and collaborative tech competitions, often leading teams under tight deadlines. Passionate about mobile system design, solving real-world problems, and building impactful digital products. Open to remote opportunities and collaborations.
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
     <img src="https://wakatime.com/badge/user/10f79aeb-aa65-46c5-a8cc-cf668bb03b28.svg" alt="Total time coded since May 7 2024" />
   </a>
 </p>
+
 
 ## 🌱 About Me
 

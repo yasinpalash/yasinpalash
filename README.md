@@ -1,8 +1,9 @@
-
 <h1>Hi, I'm Yasin Mia Palash 👋</h1>
+
 <p>
-Software Engineer with 2+ years of experience building scalable, production-grade mobile applications for Android and iOS using Flutter. Specialized in Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, and transportation systems, with a strong focus on clean architecture, performance, and scalability. Experienced in developing enterprise SFA and HRM platforms, offline-first solutions, and real-world production features that improve reliability and user experience. Skilled in RESTful APIs, Firebase, WebSocket, Hive, GetX, and Riverpod. Beyond engineering, I’ve participated in software contests and collaborative tech competitions, often leading teams under tight deadlines. Passionate about mobile system design, solving real-world problems, and building impactful digital products. Open to remote opportunities and collaborations.
+Software Engineer with 2+ years of experience building scalable, production-grade mobile applications for Android and iOS using Flutter. Specialized in Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, and transportation systems, with a strong focus on clean architecture, performance, and scalability. Experienced in developing enterprise SFA and HRM platforms, offline-first solutions, and real-world production features that improve reliability and user experience. Skilled in RESTful APIs, Firebase, WebSocket, Hive, GetX, and Riverpod. Beyond engineering, I’ve participated in software contests and collaborative tech competitions, often leading teams under tight deadlines. Passionate about mobile system design, mentoring developers, solving real-world problems, and building impactful digital products. Open to remote opportunities and collaborations.
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
@@ -13,13 +14,11 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ---
 
 ## 💡 About Me
-- 💼 Current Position: Software Engineer  
-- 🌱 Currently Exploring: Advanced mobile development topics  
-- 💬 Ask Me About: iOS & Android Development, Swift, Flutter, Cross-platform Development, AI in Mobile Apps  
-- 📫 Reach Me: **yasinmiapolash@gmail.com**  
-- 🌐 [Check my WakaTime Dashboard](https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28)
-
----
+- 💼 Current Position: Software Engineer
+- 🌱 Currently Exploring: Advanced mobile development topics
+- 💬 Ask Me About: iOS & Android Development, Swift, Flutter, Cross-platform Development, AI in Mobile Apps
+- 📫 Reach Me: **yasinmiapolash@gmail.com**
+- 🌐 [WakaTime Dashboard](https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28)
 
 ### 🛠️ Technical Skills  
 - **Programming Languages:** C, Dart, Python, Rust  

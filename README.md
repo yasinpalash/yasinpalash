@@ -21,14 +21,14 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 - 🌐 [WakaTime Dashboard](https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28)
 
 ### 🛠️ Technical Skills  
-- **Programming Languages:** C, Dart, Python, Rust  
-- **Frameworks:** Flutter (Cross-Platform Development)  
+- **Programming Languages:** C, Dart, Python, Swift
+- **Frameworks:** Flutter, SwiftUI
 - **Version Control:** Git & GitHub  
 - **Web Services/API Integration:** RESTful APIs, JSON, HTTP/HTTPS   
-- **Database Management:** Firebase (Realtime Database, Firestore), Hive (Lightweight NoSQL)  
+- **Database Management:** Firebase, Hive  
 - **Platforms:** Android, iOS, Web (Cross-Platform Development)  
 - **State Management:** GetX, Riverpod  
-- **Mobile App Architecture:** MVC, MVVM Design Patterns  
+- **Mobile App Architecture:** MVC, MVVM, Clean architecture   
 - **Deployment & Publishing:**  
   - **Google Play Store:** App bundle creation, release management, and compliance with store guidelines  
   - **Apple App Store:** App Store Connect, provisioning profiles, and App Store review process  
@@ -46,7 +46,6 @@ Software Engineer with 2+ years of experience building scalable, production-grad
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -67,44 +66,37 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinpalash&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinpalash&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpalash&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ⏱️ WakaTime Stats
-
-<p align="center">
-  <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Polash&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-  </a>
-</p>
-
----
-
-
 ## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasinpalash/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:yasinpalash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
+
 ## 📝 Blogs
-<p align="center">
-  <a href="https://medium.com/@yasinmiapolash/building-a-bulletproof-flutter-api-client-38efc4ab775d" target="_blank">
-    <img src="https://img.shields.io/badge/Building%20a%20Bulletproof%20Flutter%20API%20Client-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Link" />
-  </a>
-</p>
+
+- **Flutter**
+
+  - 🔗 [Building a Bulletproof Flutter API Client](https://medium.com/@yasinmiapolash/building-a-bulletproof-flutter-api-client-38efc4ab775d)
+  - 🔗 [Flutter Clean Architecture with GetX](https://medium.com/@yasinmiapolash/flutter-clean-architecture-with-getx-58822d41b148)
+  - 🔗 [How Flutter Flavors Helped Me Manage a Large Live Project](https://medium.com/@yasinmiapolash/how-flutter-flavors-helped-me-manage-a-large-live-project-ed493780cfd3)
+
+---
+
+## 🏆 Awards & Achievements
+- Cyber Security Awareness Project Showcasing — **1st Runner-Up** (2022)
+- Robot Nokshar Ashor — **1st Runner-Up** (2021)
+
+---
+
 <div align="center">
   <i>💡 "Great apps are built with passion, precision, and continuous learning."</i>
 </div>

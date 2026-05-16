@@ -1,11 +1,11 @@
 <h1>Hi, I'm Yasin Mia Palash 👋</h1>
 
 <p>
-Software Engineer with 2+ years of experience building scalable, production-grade mobile applications for Android and iOS using Flutter. Specialized in Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, and transportation systems, with a strong focus on clean architecture, performance, and scalability. Experienced in developing enterprise SFA and HRM platforms, offline-first solutions, and real-world production features that improve reliability and user experience. Skilled in RESTful APIs, Firebase, WebSocket, Hive, GetX, and Riverpod. Beyond engineering, I’ve participated in software contests and collaborative tech competitions, often leading teams under tight deadlines. Passionate about mobile system design, mentoring developers, solving real-world problems, and building impactful digital products. Open to remote opportunities and collaborations.
+Software Engineer with 2+ years of experience building scalable, production-grade mobile applications for Android and iOS using Flutter. Specialized in Route-to-Market (RTM), Sales Force Automation (SFA), mHealth, e-commerce, and transportation systems, with a strong focus on clean architecture, performance, and scalability. Experienced in developing enterprise SFA and HRM platforms, offline-first solutions, and real-world production features that improve reliability and user experience. Skilled in RESTful APIs, Firebase, WebSocket, Hive, GetX, and Riverpod. Beyond engineering, I've participated in software contests and collaborative tech competitions, often leading teams under tight deadlines. Passionate about mobile system design, mentoring developers, solving real-world problems, and building impactful digital products. Open to remote opportunities and collaborations.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yasinpalash&label=Profile%20Views&color=000000&style=flat&labelColor=ffffff" alt="Profile Views" />
   <a href="https://wakatime.com/@10f79aeb-aa65-46c5-a8cc-cf668bb03b28">
     <img src="https://wakatime.com/badge/user/10f79aeb-aa65-46c5-a8cc-cf668bb03b28.svg" alt="Total time coded since May 7 2024" />
   </a>
@@ -42,23 +42,23 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ## 🛡️ Technology Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/-FVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FVM" />
-  <img src="https://img.shields.io/badge/-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
-  <img src="https://img.shields.io/badge/-GetX-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/-Push%20Notifications-7D4698?style=for-the-badge&logo=firebase&logoColor=white" alt="Push Notifications" />
+  <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++" />
+  <img src="https://img.shields.io/badge/-Dart-111111?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/-Flutter-111111?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-Hive-000000?style=for-the-badge&logo=hive&logoColor=ffffff" alt="Hive" />
+  <img src="https://img.shields.io/badge/-Figma-111111?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/-Postman-111111?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=ffffff" alt="Jira" />
+  <img src="https://img.shields.io/badge/-VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-FVM-000000?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="FVM" />
+  <img src="https://img.shields.io/badge/-Google%20Maps-111111?style=for-the-badge&logo=googlemaps&logoColor=ffffff" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/-GetX-000000?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="GetX" />
+  <img src="https://img.shields.io/badge/-Push%20Notifications-111111?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Push Notifications" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpalash&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpalash&theme=highcontrast&background=ffffff&border=000000&stroke=000000&ring=000000&fire=333333&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=333333&dates=555555" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,9 +74,9 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasinpalash/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="mailto:yasinpalash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yasinpalash/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" /></a>
+  <a href="mailto:yasinpalash@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 </p>
 
 ---

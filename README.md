@@ -75,7 +75,7 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasinpalash/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" /></a>
+  <a href="https://medium.com/@yasinmiapolash/"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" /></a>
   <a href="mailto:yasinpalash@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 </p>
 

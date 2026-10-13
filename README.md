@@ -14,7 +14,7 @@ Software Engineer with 2+ years of experience building scalable, production-grad
 ---
 
 ## 💡 About Me
-- 💼 Current Position: Software Engineer
+- 💼 Current Position: Software Engineer L1
 - 🌱 Currently Exploring: Advanced mobile development topics
 - 💬 Ask Me About: iOS & Android Development, Swift, Flutter, Cross-platform Development, AI in Mobile Apps
 - 📫 Reach Me: **yasinmiapolash@gmail.com**
